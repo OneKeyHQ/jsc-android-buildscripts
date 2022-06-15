@@ -30,12 +30,12 @@ jobs:
         run: |
           yarn clean
           yarn download
-          sudo yarn start
+          yarn start
         shell: bash
 
       - name: Publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          npm publich
+          npm publish
         shell: bash
