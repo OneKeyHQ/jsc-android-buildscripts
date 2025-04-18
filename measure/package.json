@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "react-native": "0.44.0",
-    "react": "16.0.0-alpha.6",
+    "react": "16.14.0",
     "prop-types": "*",
     "lodash": "latest"
   },
