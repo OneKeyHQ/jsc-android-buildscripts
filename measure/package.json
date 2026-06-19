@@ -11,7 +11,7 @@
     "downloadPublishedVersion": "node ./scripts/downloadPublishedVersion"
   },
   "dependencies": {
-    "react-native": "0.44.0",
+    "react-native": "0.69.12",
     "react": "16.0.0-alpha.6",
     "prop-types": "*",
     "lodash": "latest"
